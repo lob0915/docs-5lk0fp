@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://notes-1umx0g.cuansalam.cfd/sitemap.xml
